@@ -1,0 +1,5 @@
+{
+  "name": "AI MedDev Review Guidance & Checklist System",
+  "description": "An intelligent system for medical device review agencies to generate guidance, checklists, and visual flowcharts from uploaded documents.",
+  "requestFramePermissions": []
+}
